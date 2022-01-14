@@ -19,7 +19,8 @@ For the best experience install [Optifine](https://optifine.net/home) or a conne
 
 ### License
 
-Source files: You have the anthers permission (thats me) to customize this resource pack however you like. If your interested in doing that I have provided a version with source files here.The source files are `.xcf` (gimp files) and are under the `gimp` folder. You can find the gimp image editor here. Uncle Jam - How To Create Connected Textures Optifine - ctm documentationIf you publish an altered version I ask that you credit the original, and that it be altered.
+Source files: You have the anthers permission (thats me) to customize this resource pack however you like. The source files are `.xcf` (gimp files) and are under the `gimp` folder. 
+
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
